@@ -1,3 +1,5 @@
+# Might be bugged, sorry
+
 import random
 
 
